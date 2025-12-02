@@ -3,6 +3,7 @@
 #include <vector>
 #include <algorithm>
 
+
 template<class T>
 void quicksort(T a[], int left, int right)
 {
