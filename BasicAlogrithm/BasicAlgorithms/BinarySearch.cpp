@@ -58,7 +58,5 @@ int main() {
 //     if (a[l] == x) {
 //         cout << "Yes\n";
 //     }
-
-
 //     return 0;
 // }
