@@ -33,6 +33,7 @@ void merge_sort(int l, int r)
     for (int p = l, q = 0; p <= r;) a[p++] = tmp[q++];
 } 
 
+
 int main()
 {
     scanf("%d", &n);
