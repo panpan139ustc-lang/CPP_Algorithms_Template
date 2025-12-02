@@ -25,7 +25,6 @@ int findk(int l, int r, int k)
     else return findk(j + 1, r, k - j + l - 1);
 }
 
-
 int main()
 {
     cin >> n >> k;
